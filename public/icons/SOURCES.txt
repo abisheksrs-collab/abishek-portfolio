@@ -1,0 +1,6 @@
+Microsoft product icon sources:
+Dynamics 365: https://learn.microsoft.com/en-us/dynamics365/get-started/icons
+Power Platform: https://learn.microsoft.com/en-us/power-platform/guidance/icons
+Fabric and Power BI: https://learn.microsoft.com/en-us/fabric/fundamentals/icons
+Azure DevOps: https://learn.microsoft.com/en-us/azure/architecture/icons/
+Icons identify Microsoft products in the portfolio's ecosystem and workflow illustrations. Microsoft retains ownership of these marks.
